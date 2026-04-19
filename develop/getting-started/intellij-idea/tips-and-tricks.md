@@ -96,7 +96,7 @@ to activate the `Inherited` option at the top in the View options as well, when 
 
 ### Type Hierarchy of a Class {#type-hierarchy-of-a-class}
 
-By placing the cursor on a class name and pressing <kbd>⌘/CTRL</kbd>+<kbd>H</kbd> you can open a new Type Hierarchy window, which shows all parent and child classes.
+By placing the cursor on a class name and pressing <kbd>CTRL</kbd>+<kbd>H</kbd> you can open a new Type Hierarchy window, which shows all parent and child classes.
 
 ![Type Hierarchy window](/assets/develop/misc/using-the-ide/analyzing_02.png)
 
