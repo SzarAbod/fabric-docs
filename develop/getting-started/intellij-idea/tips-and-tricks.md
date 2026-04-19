@@ -105,7 +105,7 @@ By placing the cursor on a class name and pressing <kbd>⌘/CTRL</kbd>+<kbd>H</k
 ### Code Completion {#code-completion}
 
 Code completion should be activated by default. You will automatically get the recommendations while writing your code.
-If you closed it by accident or just moved your cursor to a new place, you can use <kbd>⌘/CTRL</kbd>+<kbd>Space</kbd> to open them up again.
+If you closed it by accident or just moved your cursor to a new place, you can use <kbd>CTRL</kbd>+<kbd>Space</kbd> to open them up again.
 
 For example, when using lambda expressions, you can write them quickly using this method.
 
